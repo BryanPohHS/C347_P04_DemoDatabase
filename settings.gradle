@@ -1,0 +1,2 @@
+rootProject.name='C347_P04_DemoDatabase'
+include ':app'
